@@ -4,7 +4,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IgorOtr&show_icons=true&count_private=true&hide_border=true&title_color=7400ff&icon_color=2ecd79&text_color=c9d1d9&bg_color=0d1117" alt="Igor Otero github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IgorOtr&show_icons=true&count_private=true&hide_border=true&title_color=7400ff&icon_color=7400ff&text_color=7400ff&bg_color=7400ff" alt="Igor Otero github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorOtr&layout=compact&hide_border=true&title_color=2ecd79&text_color=7400ff&bg_color=0d1117" />
 </div>
 
