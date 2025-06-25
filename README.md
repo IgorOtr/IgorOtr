@@ -11,6 +11,8 @@
 <div style="display: inline_block" align="center"><br>
   
    <img style="margin-left: 30px;" align="center" alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="50" width="50"/>
+
+   <img style="margin-left: 30px;" align="center" alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="50" width="50"/>
    
   <img style="margin-left: 30px;" align="center" alt="laravel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" height="40" width="40"/>
 
