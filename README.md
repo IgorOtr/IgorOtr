@@ -9,23 +9,13 @@
 </div>
 
 <div style="display: inline_block" align="center"><br>
-  
    <img style="margin-left: 30px;" align="center" alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="50" width="50"/>
-
-   <img style="margin-left: 30px;" align="center" alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="50" width="50"/>
-   
+   <img style="margin-left: 30px;" align="center" alt="csharp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="50" width="50"/>
+   <img style="margin-left: 30px;" align="center" alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" height="50" width="50"/>
   <img style="margin-left: 30px;" align="center" alt="laravel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" height="40" width="40"/>
-
-   <img style="margin-left: 30px;" align="center" alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" height="50" width="50"/>
-  
-  <img style="margin-left: 30px;" align="center" alt="Node" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
- 
   <img style="margin-left: 30px;" align="center" alt="mysql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  
-  <img style="margin-left: 30px;" align="center" alt="mysql" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  
+  <img style="margin-left: 30px;" align="center" alt="postgres" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img style="margin-left: 30px;" align="center" alt="docker" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  
 </div>
 
 
